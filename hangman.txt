@@ -1,6 +1,7 @@
 
 # Python Program to illustrate  
-# Hangman Game 
+# Hangman Game
+#fun game 
 import random 
 from collections import Counter 
   
